@@ -15,7 +15,6 @@ An end-to-end exploratory data analysis of 11,000+ customer transactions from an
 - Automate report generation for scalable insight delivery
 
 ---
-
 🛠️ Tools & Technologies
 - Python -> Core analysis and automation
 - Pandas & NumPyData -> cleaning and transformation
