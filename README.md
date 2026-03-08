@@ -49,12 +49,6 @@ An end-to-end exploratory data analysis of 11,000+ customer transactions from an
 - 💻 IT Sector professionals are the biggest spenders by occupation
 - 🗺️ Central Zone leads all geographic regions in revenue
 
----
-🚀 How to Run
-
-bash# Install dependencies
-
-pip install pandas numpy matplotlib seaborn
 
 ---
 💡 Business Recommendations
